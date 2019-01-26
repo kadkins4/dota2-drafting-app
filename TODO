@@ -1,0 +1,9 @@
+☐ MVP
+  ☐ Implement Game Logic
+    ✔ The game 'knows' what team's ban/pick it is @done(18-09-13 20:14)
+    ☐ Correspond clicks to ban or pick
+    ☐ the click should then:
+      ☐ remove that hero from the selection pool
+      ☐ add that hero object to the team
+    ☐ the timer should then switch teams
+  ☐
