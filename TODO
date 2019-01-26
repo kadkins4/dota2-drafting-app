@@ -1,9 +1,13 @@
-☐ MVP
-  ☐ Implement Game Logic
-    ✔ The game 'knows' what team's ban/pick it is @done(18-09-13 20:14)
-    ☐ Correspond clicks to ban or pick
-    ☐ the click should then:
-      ☐ remove that hero from the selection pool
-      ☐ add that hero object to the team
-    ☐ the timer should then switch teams
-  ☐
+Organization
+  ☐ Serve & Client Separation
+    ☐ Server
+      ☐ Create Server Directory
+      ☐ Commit to Git, ensure top directory of 2
+      ☐ Add in Server Logic
+        ☐ Test to make sure they can interact in a basic fashion
+    ☐ Client
+      ☐ Move all Client Side Directories into Client Dir
+      ☐ Fully Test and Make sure .git is monitoring
+        ☐ ESLINT
+        ☐ GIT
+        ☐ .GITIGNORE
