@@ -20,4 +20,10 @@ app.get('/status', (req, res) => {
   });
 });
 
+app.post('/register', (req, res) => {
+  res.send({
+    message: `Hello ${req.body.username}! You have been registered!`,
+  });
+});
+
 app.listen(process.env.PORT || port);
