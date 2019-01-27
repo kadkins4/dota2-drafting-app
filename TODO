@@ -1,13 +1,13 @@
 Organization
-  ☐ Serve & Client Separation
-    ☐ Server
-      ☐ Create Server Directory
-      ☐ Commit to Git, ensure top directory of 2
-      ☐ Add in Server Logic
-        ☐ Test to make sure they can interact in a basic fashion
-    ☐ Client
-      ☐ Move all Client Side Directories into Client Dir
-      ☐ Fully Test and Make sure .git is monitoring
-        ☐ ESLINT
-        ☐ GIT
-        ☐ .GITIGNORE
+  ✔ Serve & Client Separation @done(19-01-26 20:41)
+    ✔ Server @done(19-01-26 20:41)
+      ✔ Create Server Directory @done(19-01-26 20:41)
+      ✔ Commit to Git, ensure top directory of 2 @done(19-01-26 20:41)
+      ✔ Add in Server Logic @done(19-01-26 20:41)
+      ✔ Test to make sure they can interact in a basic fashion @done(19-01-26 20:41)
+    ✔ Client @done(19-01-26 20:41)
+      ✔ Move all Client Side Directories into Client Dir @done(19-01-26 20:41)
+      ✔ Fully Test and Make sure .git is monitoring @done(19-01-26 20:41)
+        ✔ ESLINT @done(19-01-26 20:41)
+        ✔ GIT @done(19-01-26 20:41)
+        ✔ .GITIGNORE @done(19-01-26 20:41)
