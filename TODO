@@ -1,4 +1,4 @@
-Organization
+Architecture/Organization
   ✔ Serve & Client Separation @done(19-01-26 20:41)
     ✔ Server @done(19-01-26 20:41)
       ✔ Create Server Directory @done(19-01-26 20:41)
@@ -11,3 +11,32 @@ Organization
         ✔ ESLINT @done(19-01-26 20:41)
         ✔ GIT @done(19-01-26 20:41)
         ✔ .GITIGNORE @done(19-01-26 20:41)
+
+Coding/Development
+  ☐ ESLINT
+    ☐ Clear out ESLINT errors
+      Change style guides? Not a fan of some of AIRBNBs presets...
+      ☐ Research other style guides, the others available are google and default
+
+Non-Game Related Functionality
+  ☐ Profile
+    ☐ Login And Register
+      ☐ Create Main page
+      ☐ Reroute to Main page
+    ☐ Create Header
+      ☐ Logout Functionality on header
+      ☐ Profile Edit
+      ☐ Back To Home
+  ☐ About
+    ☐ Route
+      ☐ About DOTA 2
+      ☐ About Me
+      ☐ About Drafter
+
+Game Related
+  ☐ Clean up code
+  ☐ Gameplay
+    ☐ Styling for already made features
+    ☐ Add heroes to API
+    ☐ Retrieve from API without any change
+  ☐ Post Draft View
